@@ -8,6 +8,11 @@ html {
     padding-top: 100px;
 }
 
+body {
+    margin-top: 0;
+    padding-top: 0;
+}
+
 /* Header */
 header {
     position: fixed;
@@ -60,6 +65,7 @@ header nav ul {
 
 .slogan-container {
     display: block;
+
 }
 
 .mission-boxes {
