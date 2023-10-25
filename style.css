@@ -12,6 +12,11 @@ header {
     background-color: white;
 }
 
+header .content {
+    display: flex;
+    align-items: center;
+}
+
 /* Intro Section */
 
 
