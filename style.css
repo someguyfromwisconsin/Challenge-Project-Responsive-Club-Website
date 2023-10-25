@@ -55,6 +55,14 @@ header nav ul {
 /* Intro Section */
 
 #intro-section {
+
+}
+
+.slogan-container {
+    display: block;
+}
+
+.mission-box {
     display: flex;
 }
 
