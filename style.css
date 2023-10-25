@@ -17,6 +17,28 @@ header .content {
     align-items: center;
 }
 
+header nav ul {
+    display: flex;
+    list-style-type: none;
+}
+
+.menu-item {
+    position: relative;
+}
+
+.sub-menu {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: white;
+    border: 1px solid black;
+}
+
+.menu-item:hover .sub-menu {
+    display: block;
+}
+
 /* Intro Section */
 
 
