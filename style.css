@@ -76,6 +76,11 @@ header nav ul {
     text-align: center;
 }
 
+.mission-icon img {
+    height: 100px;
+    width: 100px;
+}
+
 /* Map Section */
 
 
