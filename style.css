@@ -90,5 +90,24 @@ header nav ul {
 
 /* Core Principles Section */
 
+#principles-section {
+    max-width: 100%;
+}
+
+.principle-boxes {
+    display: flex;
+    justify-content: center;
+}
+
+.principle-box {
+    text-align: center;
+    margin: 1rem;
+    padding-right: 2rem;
+}
+
+.principle-icon img {
+    height: 100px;
+    width: 100px;
+}
 
 /* Footer */
