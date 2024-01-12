@@ -79,10 +79,14 @@ header nav ul {
     max-width: 100%;
 }
 
-.slogan-container {
+#slogan-container, #mission-container {
     display: block;
     text-align: center;
+}
+
+#intro-section .title {
     color: rgb(250, 86, 46);
+    font-family: ;
 }
 
 .mission-boxes {
