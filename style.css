@@ -89,6 +89,10 @@ header nav ul {
     font-family: ;
 }
 
+#mission-container h2 {
+    color: rgb(200, 195, 188);
+}
+
 .mission-boxes {
     display: flex;
 }
